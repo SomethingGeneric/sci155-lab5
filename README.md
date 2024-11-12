@@ -4,7 +4,7 @@
 Estimate:
 ![image](https://github.com/user-attachments/assets/3ce3a787-fe2b-416b-ba80-11d2ed7ff9dc)
 
-(You can read more in [by_hand.md])
+(You can read more in [this file](by_hand.md), if you'd like to do the calculations manually)
 
 ## Run the python code:
 * Install python3 and the venv module on your system (instructions differ by OS)
