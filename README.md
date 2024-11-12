@@ -1,6 +1,10 @@
 # Estimating the CO2 Impact of Study Abroad in Dublin, Ireland
 
-## tldr todo: output screenshot here
+## TL;DR (too long, didn't read)
+Estimate:
+![image](https://github.com/user-attachments/assets/3ce3a787-fe2b-416b-ba80-11d2ed7ff9dc)
+
+(You can read more in [by_hand.md])
 
 ## Run the python code:
 * Install python3 and the venv module on your system (instructions differ by OS)
